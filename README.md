@@ -38,7 +38,6 @@ preprocessing → modeling → optimization → visualization.
 
 -   **About_Project_UAV_DataAnalytics.md** -- Detailed case study.\
 -   **/data** -- Sample raw and processed datasets.\
--   **/notebooks** -- Step-by-step analysis notebooks.\
 -   **/scripts** -- Python scripts for regression, optimization, and
     visualization.\
 -   **/figures** -- Charts and plots illustrating results.
