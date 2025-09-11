@@ -23,11 +23,10 @@ This project uses data analytics to **optimize** 3D printing parameters for UAV 
 ## 🔑 Skills Demonstrated
 
 -   **Data Engineering:** Designing and collecting experimental data.\
--   **Statistical Modeling:** Regression and response surface analysis.\
+-   **Statistical Modeling:** Regression, response surface analysis, and DOE.\
 -   **Optimization:** Multi-objective trade-off analysis with NSGA-II.\
 -   **Visualization:** Pareto fronts, contour plots, regression plots.\
--   **Tools:** Python (NumPy, SciPy, Matplotlib, Seaborn, Pymoo),
-    Minitab.
+-   **Tools:** Python (Matplotlib,platypus) and Minitab.
 
 ------------------------------------------------------------------------
 
