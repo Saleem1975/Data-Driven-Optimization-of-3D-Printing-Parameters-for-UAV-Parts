@@ -1,12 +1,6 @@
 # Data Analytics for Optimizing 3D Printing of UAV Parts
 
-This project applies **data analytics techniques** to optimize 3D
-printing parameters for unmanned aerial vehicle (UAV) parts. Unlike
-projects that use ready-made datasets, here the data were **generated
-and collected in-house** through controlled 3D printing experiments.
-This allowed building a full **end-to-end pipeline**: data generation →
-preprocessing → modeling → optimization → visualization.
-
+This project uses data analytics to optimize 3D printing parameters for UAV components, targeting longer flight times by achieving a balance of low weight and high strength. In-house data were generated using response surface methodology (DOE) to build two regression models: one for strength and one for mass. Treated as conflicting objectives—maximize strength, minimize mass—they were solved with the NSGA-II algorithm to find optimal trade-offs. The result is a lightweight, durable UAV body suitable for applications such as PV field monitoring, demonstrating a complete pipeline from data generation to visualization.
 ------------------------------------------------------------------------
 
 ## 📌 Overview
@@ -37,9 +31,8 @@ preprocessing → modeling → optimization → visualization.
 ## 📂 Repository Contents
 
 -   **About_Project_UAV_DataAnalytics.md** -- Detailed case study.\
--   **/data** -- Sample raw and processed datasets.\
--   **/scripts** -- Python scripts for regression, optimization, and
-    visualization.\
+-   **/data** -- Minitab file containing Raw dataset along with the analysis.\
+-   **/scripts** -- Python script for multi-objective optimization\
 -   **/figures** -- Charts and plots illustrating results.
 
 ------------------------------------------------------------------------
