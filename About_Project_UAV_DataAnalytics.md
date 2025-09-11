@@ -45,9 +45,9 @@ optimization\
 
 ## 📊 Tools & Skills Demonstrated
 
--   **Python**: NumPy, SciPy, Pymoo (NSGA-II), Matplotlib, Seaborn\
+-   **Python**: platypus (NSGAII, Problem, Real, Integer, Solution), Matplotlib\
 -   **Statistical Analysis**: Regression, interaction effects, quadratic
-    modeling\
+    modeling using (Minitab softwar)\
 -   **Optimization**: Multi-objective (Pareto analysis, Response
     Optimizer)\
 -   **Data Engineering**: Designing and collecting experimental data
