@@ -17,6 +17,7 @@ This project uses data analytics to **optimize** 3D printing parameters for UAV 
     -   R² = 88.5% for tensile strength prediction\
     -   Optimal balance achieved at **47.08 MPa tensile strength** and
         **1.60 g mass**.
+    -  Flight time was improved by 21%.
 
 ------------------------------------------------------------------------
 
