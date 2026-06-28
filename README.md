@@ -34,15 +34,15 @@ This project uses data analytics to **optimize** 3D printing parameters for UAV 
 ## 📂 Repository Contents
 
 -   **About_Project_UAV_DataAnalytics.md** -- Detailed case study.
--   **/data** -- Minitab file containing Raw dataset along with the analysis.
--   **/scripts** -- Python script for multi-objective optimization
--   **/figures** -- Charts and plots illustrating results.
+-   **data** -- Minitab file containing Raw dataset along with the analysis.
+-   **scripts** -- Python script for multi-objective optimization
+-   **figures** -- Charts and plots illustrating results.
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Authors
 
--   **Dr. Saleem Ramadan** -- Al Hussein Technical University\
+-   **Dr. Saleem Ramadan** -- Al Hussein Technical University
 -   **Dr. Mohammad Abu-Shams** -- German Jordanian University
 
 ------------------------------------------------------------------------
