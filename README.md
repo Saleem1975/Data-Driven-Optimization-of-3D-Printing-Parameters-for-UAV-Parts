@@ -8,12 +8,12 @@ This project uses data analytics to **optimize** 3D printing parameters for UAV 
 
 ## 📌 Overview
 
--   **Goal:** Achieve UAV parts that are both lightweight and strong.\
+-   **Goal:** Achieve UAV parts that are both lightweight and strong.
 -   **Methods:** Design of Experiments (DoE), Response Surface
     Methodology (RSM), regression modeling, and **Python-based NSGA-II
-    multi-objective optimization**.\
+    multi-objective optimization**.
 -   **Key Outcomes:**
-    -   R² = 98.2% for mass prediction\
+    -   R² = 98.2% for mass prediction
     -   R² = 88.5% for tensile strength prediction\
     -   Optimal balance achieved at **47.08 MPa tensile strength** and
         **1.60 g mass**.
